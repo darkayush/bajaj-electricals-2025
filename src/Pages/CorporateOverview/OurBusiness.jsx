@@ -59,7 +59,7 @@ const OurBusiness = () => {
                     </div>
                     <h1 className="text-xl font-bold">Lighting solutions</h1>
                 </div>
-                <img src="" alt="" />
+                <img src="/CorporateOverview/Business/Picture3368-06.png" alt="" className="mt-5" />
             </div>
             <div className="bg-[#201c59] min-h-screen rounded-3xl text-white p-5 mt-5">
                 <h1 className="text-3xl font-bold text-[#5fcbec] mb-3">Consumer Products</h1>
@@ -97,12 +97,47 @@ const OurBusiness = () => {
                     and greater brand awareness are
                     broadening the market base.
                 </p>
-                <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-10">
-                    <img src="" alt="" />
-                    <img src="" alt="" />
+                <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 mt-5">
+                    <img src="/CorporateOverview/Business/3805-10.png" alt="" className="w-70" />
+                    <img src="/CorporateOverview/Business/257-10.png" alt="" className="w-70" />
+                    <img src="/CorporateOverview/Business/Iconwithbox-10.png" alt="" className="w-90" />
                 </div>
-                <div className="mt-5">
-                    <img src="" alt="" />
+                <div className=" mt-5">
+                    <div>
+                        {/* <div className="bg-[#932374] rounded-4xl h-2 ">
+                        </div> */}
+                        <h1 className="text-2xl font-bold text-center">Fans</h1>
+                        <div>
+                            <div className="bg-[#932374] rounded-4xl p-2 mb-5">
+                                <div className="bg-white rounded-3xl p-2">
+                                    <img src="/CorporateOverview/Business/Fans/Pic-10.png" alt="" className="w-60" />
+                                    <div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div className="bg-[#06aea7] rounded-4xl h-2">
+                        </div>
+                        <h1>Fans</h1>
+                    </div>
+                    <div>
+                        <div className="bg-[#14a049] rounded-4xl h-2">
+                        </div>
+                        <h1>Fans</h1>
+                    </div>
+                    <div>
+                        <div className="bg-[#d4a12a] rounded-4xl h-2">
+                        </div>
+                        <h1>Fans</h1>
+                    </div>
+                    <div>
+                        <div className="bg-[#b22224] rounded-4xl h-2">
+                        </div>
+                        <h1>Fans</h1>
+                    </div>
                 </div>
             </div>
         </div>

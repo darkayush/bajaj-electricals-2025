@@ -80,63 +80,102 @@ const AboutBajajGroup = () => {
                     rooted in shared growth.
                 </p>
             </div>
-            {/* <div className="flex md:flex-row flex-col gap-10 justify-around">
-                <img src="" alt="" />
-                <img src="" alt="" />
-                <img src="" alt="" />
-            </div> */}
+            <div className="flex md:flex-row flex-col gap-10 md:justify-around">
+                <img src="/CorporateOverview/AboutGroup/95-Page02.png" alt="" className="w-70" />
+                <img src="/CorporateOverview/AboutGroup/40-Page02.png" alt="" className="w-70" />
+                <img src="/CorporateOverview/AboutGroup/100000-Page02.png" alt="" className="w-70" />
+            </div>
             <div>
                 <h1 className="text-[#554194] font-bold">Industries covered</h1>
-                <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-10">
+                <div className="grid lg:grid-cols-5 md:grid-cols-3 grid-cols-1 gap-5">
                     <div>
-                        <img src="" alt="" />
+                        <img src="/CorporateOverview/AboutGroup/Home-Ap.png" alt="" className="w-25" />
                         <p>Home Appliances</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
+                        <img src="/CorporateOverview/AboutGroup/LS.png" alt="" className="w-25" />
                         <p>Lighting Solutions</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
+                        <img src="/CorporateOverview/AboutGroup/F.png" alt="" className="w-25" />
                         <p>Fans</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
-                        <p>EPC – Power Transmission and Distribution</p>
+                        <img src="/CorporateOverview/AboutGroup/EPC.png" alt="" className="w-25" />
+                        <p>EPC – Power Transmission <br /> and Distribution</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
+                        <img src="/CorporateOverview/AboutGroup/IronandSteel.png" alt="" className="w-25" />
                         <p>Iron and Steel</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
-                        <p>Automobile (2 wheelers and 3 wheelers)</p>
+                        <img src="/CorporateOverview/AboutGroup/A.png" alt="" className="w-25" />
+                        <p>Automobile (2 wheelers <br /> and 3 wheelers)</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
+                        <img src="/CorporateOverview/AboutGroup/T.png" alt="" className="w-25" />
                         <p>Travel</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
+                        <img src="/CorporateOverview/AboutGroup/I.png" alt="" className="w-25" />
                         <p>Insurance</p>
                     </div>
                     <div>
-                        <img src="" alt="" />
+                        <img src="/CorporateOverview/AboutGroup/NBFC.png" alt="" className="w-25" />
                         <p>NBFC / Financial Services</p>
                     </div>
-                    <div>
-                        <p>To know more about our history</p>
-                        <img src="" alt="" />
-                        <p className="font-bold">Scan the QR code</p>
+                </div>
+            
+                <div>
+                    <h1 className="text-[#554194] font-bold mb-2 mt-5">Our Founding Fathers </h1>
+                    <h2 className="text-2xl text-[#005eac] font-medium">Their path continues to inspire and guide us</h2>
+                    <div className="grid lg:grid-cols-5 md:grid-cols-2 grid-cols-1 gap-10 mt-5">
+                        <div>
+                            <img src="/CorporateOverview/AboutGroup/Jamnalal Bajaj.jpg" alt="" className="w-60 rounded-2xl" />
+                            <h1 className="font-bold mt-2">
+                                Jamnalal Bajaj
+                            </h1>
+                            <h2>
+                                (1889-1942)
+                            </h2>
+                        </div>
+                        <div>
+                            <img src="/CorporateOverview/AboutGroup/Kamalnayan Bajaj_SM copy.jpg" alt="" className="w-60 rounded-2xl" />
+                            <h1 className="font-bold mt-2">
+                                Kamalnayan Bajaj
+                            </h1>
+                            <h2>
+                                (1915-1972)
+                            </h2>
+                        </div>
+                        <div>
+                            <img src="/CorporateOverview/AboutGroup/Ramkrishna Bajaj.jpg" alt="" className="w-60 rounded-2xl" />
+                            <h1 className="font-bold mt-2">
+                                Ramkrishna Bajaj
+                            </h1>
+                            <h2>
+                                (1923-1990)
+                            </h2>
+                        </div>
+                        <div>
+                            <img src="/CorporateOverview/AboutGroup/Shri. Rahul Bajaj.jpg" alt="" className="w-60 rounded-2xl" />
+                            <h1 className="font-bold mt-2">
+                                Rahul Bajaj
+                            </h1>
+                            <h2>
+                                (1938-2022)
+                            </h2>
+                        </div>
+                        <div>
+                    <p>To know more about our history</p>
+                    <img src="/CorporateOverview/AboutGroup/QR-Code.png" alt="" className="w-40" />
+                    <p className="font-bold">Scan the QR code</p>
+                </div>
                     </div>
                 </div>
-                <div>
-                    <h1 className="text-[#554194] font-bold mb-2">Our Founding Fathers </h1>
-                    <h2 className="text-2xl text-[#005eac] font-medium">Their path continues to inspire and guide us</h2>
-                </div>
                 <div className="mt-5 border-2 border-black rounded-3xl">
-                    <div className="bg-[#201c59] p-5 rounded-2xl">
-                        <h1 className="text-white text-3xl font-medium">Honouring a Life of Leadership</h1>
+                    <div className="bg-[#201c59] p-5 rounded-2xl bg-[url('/CorporateOverview/AboutGroup/Bg.png')] bg-no-repeat bg-[length:40%] bg-right h-80 flex items-end">
+                        <h1 className="text-white text-4xl font-bold">Honouring a Life of Leadership</h1>
                     </div>
                     <div className="p-5">
                         <h2 className="text-black font-bold">Shri Madhur Bajaj</h2>
@@ -186,6 +225,9 @@ const AboutBajajGroup = () => {
                             will continue to be guided by the
                             principles he held dear.
                         </p>
+                    </div>
+                    <div className="flex justify-center">
+                        <img src="/CorporateOverview/AboutGroup/Vector.png" alt="" className="w-30" />
                     </div>
                 </div>
             </div>
