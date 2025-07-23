@@ -27,7 +27,7 @@ const Footer = () => {
                             <img
                                 src="/k&a logo.webp"
                                 alt="K&A Developer Logo"
-                                className="w-4 h-4 object-contain"
+                                className="w-5 h-5 object-contain"
                             />
                             <span>Kalolwala & Associates</span>
                         </a>
