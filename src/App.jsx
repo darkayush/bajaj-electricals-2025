@@ -7,6 +7,11 @@ import LandingPage from "./Pages/Home/LandingPage"
 import AboutBajajElectricals from "./Pages/CorporateOverview/AboutBajajElectricals"
 import AboutBajajGroup from "./Pages/CorporateOverview/AboutBajajGroup"
 import OurBusiness from "./Pages/CorporateOverview/OurBusiness"
+import ChairmansCommunique from "./Pages/CorporateOverview/ChairmansCommunique"
+import FinancialHighlights from "./Pages/CorporateOverview/FinancialHighlights"
+import Awards from "./Pages/CorporateOverview/Awards"
+import VCM from "./Pages/CorporateOverview/VCM"
+import StakeholderEngagement from "./Pages/CorporateOverview/StakeholderEngagement"
 
 const App = () => {
   return (
@@ -20,12 +25,12 @@ const App = () => {
               <Route path='/about_bajaj_group' element={<AboutBajajGroup />} />
               <Route path="/about_bajaj_electricals" element={<AboutBajajElectricals />} />
               <Route path="/our_businesses" element={<OurBusiness />} />
-              {/* <Route path="/chairmans_message" element={<ChairmansMessage />} />
-              <Route path="/md_ceos_message" element={<MDCEOsMessage />} />
+              <Route path="/chairmans_communique" element={<ChairmansCommunique />} />
               <Route path="/financial_highlights" element={<FinancialHighlights />} />
-              <Route path="/portfolio_of_consumer_offerings" element={<PortfolioOfConsumerOfferings />} />
-              <Route path="/intentional_innovation" element={<IntentionalInnovation />} />
-              <Route path="/technology_digital" element={<TechnologyAndDigital />} />
+              <Route path="/awards_and_accolades" element={<Awards />} />
+              <Route path="/value_creation_model" element={<VCM />} />
+              <Route path="/stakeholder_engagement" element={<StakeholderEngagement />} />
+              {/* <Route path="/technology_digital" element={<TechnologyAndDigital />} />
               <Route path="/sustainability" element={<Sustainability />} />
               <Route path="/human_capital" element={<HumanCapital />} />
               <Route path="/board_of_directors" element={<BoardOfDirectors />} />

@@ -1,3 +1,5 @@
+import Appliances from "../../Components/Appliances"
+import Lighting from "../../Components/Lighting"
 
 const OurBusiness = () => {
     return (
@@ -102,43 +104,35 @@ const OurBusiness = () => {
                     <img src="/CorporateOverview/Business/257-10.png" alt="" className="w-70" />
                     <img src="/CorporateOverview/Business/Iconwithbox-10.png" alt="" className="w-90" />
                 </div>
-                <div className=" mt-5">
-                    <div>
-                        {/* <div className="bg-[#932374] rounded-4xl h-2 ">
-                        </div> */}
-                        <h1 className="text-2xl font-bold text-center">Fans</h1>
-                        <div>
-                            <div className="bg-[#932374] rounded-4xl p-2 mb-5">
-                                <div className="bg-white rounded-3xl p-2">
-                                    <img src="/CorporateOverview/Business/Fans/Pic-10.png" alt="" className="w-60" />
-                                    <div>
+                <Appliances />
+            </div>
 
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+            <div className="bg-[#201c59] min-h-screen rounded-3xl text-white p-5 mt-5">
+                <div className="flex md:flex-row flex-col items-center md:gap-5">
+                    <div className="md:w-[70%] w-full">
+                        <h1 className="text-3xl font-bold text-[#5fcbec] mb-3">Lighting Solutions</h1>
+                        <p className="mb-3">
+                            The Lighting Solutions business integrates design, technology
+                            and sustainability to offer differentiated experiences across
+                            residential and professional categories. For consumers, our
+                            focus is on stylish, smart lighting solutions that enhance
+                            ambience while promoting energy savings. Conversely, for
+                            professionals, the emphasis shifts to reliability, configurability
+                            and efficiency in complex applications such as infrastructure
+                            projects, workspaces and public zones. This two-pronged
+                            strategy allows Bajaj Electricals to address India’s diverse and
+                            rapidly evolving lighting needs of modern India.
+                        </p>
                     </div>
-                    <div>
-                        <div className="bg-[#06aea7] rounded-4xl h-2">
-                        </div>
-                        <h1>Fans</h1>
-                    </div>
-                    <div>
-                        <div className="bg-[#14a049] rounded-4xl h-2">
-                        </div>
-                        <h1>Fans</h1>
-                    </div>
-                    <div>
-                        <div className="bg-[#d4a12a] rounded-4xl h-2">
-                        </div>
-                        <h1>Fans</h1>
-                    </div>
-                    <div>
-                        <div className="bg-[#b22224] rounded-4xl h-2">
-                        </div>
-                        <h1>Fans</h1>
+                    <div className="mt-5">
+                        <img src="/CorporateOverview/Business/BajajLighting-12.png" alt="" className="w-90" />
                     </div>
                 </div>
+                <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5 mt-5">
+                    <img src="/CorporateOverview/Business/1022-12.png" alt="" className="w-50" />
+                    <img src="/CorporateOverview/Business/672-12.png" alt="" className="w-70" />
+                </div>
+                <Lighting/>
             </div>
         </div>
     )
