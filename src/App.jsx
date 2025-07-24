@@ -12,6 +12,12 @@ import FinancialHighlights from "./Pages/CorporateOverview/FinancialHighlights"
 import Awards from "./Pages/CorporateOverview/Awards"
 import VCM from "./Pages/CorporateOverview/VCM"
 import StakeholderEngagement from "./Pages/CorporateOverview/StakeholderEngagement"
+import MaterialityAssesment from "./Pages/CorporateOverview/MaterialityAssesment"
+import RiskManagement from "./Pages/CorporateOverview/RiskManagement"
+import ESGStrategy from "./Pages/CorporateOverview/ESGStrategy"
+import BOD from "./Pages/CorporateOverview/BOD"
+import ProductPortfolio from "./Pages/CorporateOverview/ProductPortfolio"
+import LightningSolution from "./Pages/CorporateOverview/LightningSolution"
 
 const App = () => {
   return (
@@ -30,12 +36,12 @@ const App = () => {
               <Route path="/awards_and_accolades" element={<Awards />} />
               <Route path="/value_creation_model" element={<VCM />} />
               <Route path="/stakeholder_engagement" element={<StakeholderEngagement />} />
-              {/* <Route path="/technology_digital" element={<TechnologyAndDigital />} />
-              <Route path="/sustainability" element={<Sustainability />} />
-              <Route path="/human_capital" element={<HumanCapital />} />
-              <Route path="/board_of_directors" element={<BoardOfDirectors />} />
-              <Route path="/awards_achievements" element={<AwardsAndAchievements />} />
-              <Route path="/corporate_information" element={<CorporateInformation />} /> */}
+              <Route path="/materiality_assessment" element={<MaterialityAssesment />} />
+              <Route path="/risk_management" element={<RiskManagement />} />
+              <Route path="/esg_strategy" element={<ESGStrategy />} />
+              <Route path="/board_of_directors" element={<BOD />} />
+              <Route path="/product_portfolio" element={<ProductPortfolio />} />
+              <Route path="/lighting_solutions" element={<LightningSolution />} />
             </Routes>
           </div>
         </ScrollToTop>

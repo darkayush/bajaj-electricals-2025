@@ -6,10 +6,10 @@ const AboutBajajGroup = () => {
             <div className="">
                 <h1 className="text-3xl text-[#005eac] font-extrabold">About Bajaj Group</h1>
                 <div className="bg-[#00aea7] rounded-2xl h-1 w-6 mb-5"></div>
-                <h2 className="text-6xl text-black font-semibold mb-3">A Legacy that Inspires,
+                <h2 className="text-6xl text-black font-semibold mb-2">A Legacy that Inspires,
                     a Future that Encourages
                 </h2>
-                <h3 className="text-[#005eac] text-2xl mb-3">
+                <h3 className="text-[#005eac] text-2xl mb-2">
                     The year was 1926, nearly a century ago, when a vision gradually
                     began to take shape-one that saw the potential of businesses not just
                     in terms of profits but in purpose.
@@ -23,11 +23,11 @@ const AboutBajajGroup = () => {
 
 
             <div className="mt-5">
-                <h1 className="font-semibold text-xl mb-3">What began as a modest dream has grown into an extraordinary legacy, touching
+                <h1 className="font-semibold text-xl mb-2">What began as a modest dream has grown into an extraordinary legacy, touching
                     and transforming the lives of millions of people. Today, the Bajaj Group stands tall as
                     a beacon of trust, resilience and relentless progress.
                 </h1>
-                <p className="mb-3">
+                <p className="mb-2">
                     Across generations, we have nurtured
                     the seeds sown by our Founder,
                     growing them into a flourishing
@@ -48,7 +48,7 @@ const AboutBajajGroup = () => {
                     of India’s
                     growth story.
                 </p>
-                <p className="mb-3">
+                <p className="mb-2">
                     The Bajaj Group remains steadfast
                     in its belief that business must
                     serve a larger purpose. Our work in
@@ -66,7 +66,7 @@ const AboutBajajGroup = () => {
                     step forward for the Group, but a step
                     forward for the nation.
                 </p>
-                <p className="mb-3">
+                <p className="mb-2">
                     As we look ahead, we carry
                     forward this legacy with pride and
                     responsibility. Our journey is far from
@@ -180,8 +180,8 @@ const AboutBajajGroup = () => {
                     <div className="p-5">
                         <h2 className="text-black font-bold">Shri Madhur Bajaj</h2>
                         <h3 className="mb-2">(1952–2025)</h3>
-                        <div className="bg-[#0399d1] h-1 w-10 rounded-3xl mb-3"></div>
-                        <p className="mb-3">
+                        <div className="bg-[#0399d1] h-1 w-10 rounded-3xl mb-2"></div>
+                        <p className="mb-2">
                             With deep respect and affection,
                             we remember Shri Madhur
                             Bajaj, Non-Executive Director
@@ -199,7 +199,7 @@ const AboutBajajGroup = () => {
                             and a steadfast dedication to
                             the Group’s values.
                         </p>
-                        <p className="mb-3">
+                        <p className="mb-2">
                             An alumnus of The Doon School,
                             Sydenham College and IMD
                             Lausanne, he combined sharp

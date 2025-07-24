@@ -8,12 +8,12 @@ const OurBusiness = () => {
                 <div className="">
                     <h1 className="text-3xl text-[#005eac] font-extrabold">Our Businesses</h1>
                     <div className="bg-[#00aea7] rounded-2xl h-1 w-6 mb-5"></div>
-                    <h2 className="text-6xl text-black font-semibold mb-3">Business divisions in a nutshell
+                    <h2 className="text-6xl text-black font-semibold mb-2">Business divisions in a nutshell
                     </h2>
                 </div>
             </div>
             <div className="bg-[#005eac] p-5 rounded-3xl text-white">
-                <h1 className="text-2xl mb-3">We have build a
+                <h1 className="text-2xl mb-2">We have build a
                     consolidated yet flexible
                     portfolio, centred on
                     Consumer Centricity,
@@ -64,8 +64,8 @@ const OurBusiness = () => {
                 <img src="/CorporateOverview/Business/Picture3368-06.png" alt="" className="mt-5" />
             </div>
             <div className="bg-[#201c59] min-h-screen rounded-3xl text-white p-5 mt-5">
-                <h1 className="text-3xl font-bold text-[#5fcbec] mb-3">Consumer Products</h1>
-                <p className="mb-3">
+                <h1 className="text-3xl font-bold text-[#5fcbec] mb-2">Consumer Products</h1>
+                <p className="mb-2">
                     The Consumer Products business
                     continues to evolve in line with
                     changing consumer aspirations
@@ -110,8 +110,8 @@ const OurBusiness = () => {
             <div className="bg-[#201c59] min-h-screen rounded-3xl text-white p-5 mt-5">
                 <div className="flex md:flex-row flex-col items-center md:gap-5">
                     <div className="md:w-[70%] w-full">
-                        <h1 className="text-3xl font-bold text-[#5fcbec] mb-3">Lighting Solutions</h1>
-                        <p className="mb-3">
+                        <h1 className="text-3xl font-bold text-[#5fcbec] mb-2">Lighting Solutions</h1>
+                        <p className="mb-2">
                             The Lighting Solutions business integrates design, technology
                             and sustainability to offer differentiated experiences across
                             residential and professional categories. For consumers, our

@@ -6,7 +6,7 @@ const Awards = () => {
             <div className="">
                 <h1 className="text-3xl text-[#005eac] font-extrabold">Awards and Accolades</h1>
                 <div className="bg-[#00aea7] rounded-2xl h-1 w-6 mb-5"></div>
-                <h2 className="text-6xl text-black font-semibold mb-3">Recognitions that inspire
+                <h2 className="text-6xl text-black font-semibold mb-2">Recognitions that inspire
                 </h2>
             </div>
             <div>

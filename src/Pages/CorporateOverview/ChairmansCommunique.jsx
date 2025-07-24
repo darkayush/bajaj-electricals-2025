@@ -5,7 +5,7 @@ const ChairmansCommunique = () => {
         <div className='bg-gradient-to-b from-[#e4e4e4] to-[#d3d2d3]'>
             <div className='marginal text-lg text-[#4d4d4f]'>
                 <div className="">
-                    <h2 className="text-6xl text-black font-semibold mb-3">Chairman’s Communiqué
+                    <h2 className="text-6xl text-black font-semibold mb-2">Chairman’s Communiqué
                     </h2>
                 </div>
                 <div className='flex md:flex-row flex-col gap-10'>
@@ -30,7 +30,7 @@ const ChairmansCommunique = () => {
                     </div>
                 </div>
                 <div className='bg-[#797979] p-5 rounded-3xl text-white'>
-                    <p className='font-bold mb-3'>Dear Shareholders,</p>
+                    <p className='font-bold mb-2'>Dear Shareholders,</p>
                     <p className='text-xl'>I am pleased to present
                         the Integrated Annual
                         Report for FY 2025. This
@@ -49,7 +49,7 @@ const ChairmansCommunique = () => {
                     </p>
                 </div>
                 <div>
-                    <p className='mb-3 mt-3'>
+                    <p className='mb-2 mt-3'>
                         During the year, we experienced
                         changes in our leadership team. Mr
                         Anuj Poddar, Managing Director
@@ -79,7 +79,7 @@ const ChairmansCommunique = () => {
                         and performance to steer the Company
                         towards its long-term strategic goals.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         The year 2024–25 was marked
                         by significant global disruptions,
                         including geopolitical conflicts,
@@ -104,7 +104,7 @@ const ChairmansCommunique = () => {
                         However, it was a stronger operational
                         year for the Company.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         Our revenue from operations rose to
                         H4,828 crores, marking a 4% year-onyear increase. We gained momentum
                         in the second half of the year, with
@@ -122,7 +122,7 @@ const ChairmansCommunique = () => {
                         underscores the fundamental strength
                         of our operations.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         The Consumer Products business faced
                         demand fluctuations, yet key segments
                         demonstrated notable resilience.
@@ -141,7 +141,7 @@ const ChairmansCommunique = () => {
                         will accelerate the positive growth
                         trajectory of this business.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         The Lighting Solutions business
                         demonstrated resilience in a
                         competitive pricing environment,
@@ -164,7 +164,7 @@ const ChairmansCommunique = () => {
                         Stadium and the Jagannath Temple
                         in Koraput, Odisha.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         We remained focused on strategic
                         priorities—investing consistently
                         in brand building, research
@@ -172,14 +172,14 @@ const ChairmansCommunique = () => {
                         enhancement, all while upholding the
                         highest standards of quality.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         Financial discipline remains central to our
                         execution strategy. We are committed
                         to generating positive operational cash
                         flows, optimising working capital and
                         enhancing shareholder value.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         Environmental, Social and Governance
                         (ESG) considerations are embedded
                         at the core of our business strategy.
@@ -195,7 +195,7 @@ const ChairmansCommunique = () => {
                         to contribute meaningfully to the
                         environment, society and the economy.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         I would like to take this opportunity to
                         extend my sincere appreciation to the
                         entire organisation and every team
@@ -206,10 +206,10 @@ const ChairmansCommunique = () => {
                         shareholders—for your continued
                         trust and support.
                     </p>
-                    <p className='mb-3'>
+                    <p className='mb-2'>
                         Yours sincerely,
                     </p>
-                    <p className='mb-3 font-bold text-xl text-[#554194]'>
+                    <p className='mb-2 font-bold text-xl text-[#554194]'>
                         Shekhar Bajaj
                     </p>
                     <p>

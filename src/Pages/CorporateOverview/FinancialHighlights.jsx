@@ -7,7 +7,7 @@ const FinancialHighlights = () => {
                 <div className="">
                     <h1 className="text-3xl text-[#005eac] font-extrabold">Financial Highlights</h1>
                     <div className="bg-[#00aea7] rounded-2xl h-1 w-6 mb-5"></div>
-                    <h2 className="text-6xl text-black font-semibold mb-3">Our Performance at a glance
+                    <h2 className="text-6xl text-black font-semibold mb-2">Our Performance at a glance
                     </h2>
                 </div>
                 <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-10 mt-5'>
@@ -22,7 +22,7 @@ const FinancialHighlights = () => {
                 <div class="mt-10">
                     <h1 className="text-3xl text-[#005eac] font-bold">अब महा ठण्ड से महा मुकाबला हुआ महा आसान</h1>
                     <div className="bg-[#00aea7] rounded-2xl h-1 w-6 mb-5"></div>
-                    <h2 className="text-6xl text-black font-semibold mb-3">
+                    <h2 className="text-6xl text-black font-semibold mb-2">
                         Pilgrims Embrace Bajaj's 24x7 Seva Kendra at the Maha Kumbh Mela 2025 for Warmth and Comfort
                     </h2>
                 </div>
