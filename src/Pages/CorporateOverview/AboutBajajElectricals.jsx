@@ -2,31 +2,21 @@ import React from 'react'
 
 const AboutBajajElectricals = () => {
     return (
-        <div className='<div className="">
-                    <h1 className="text-3xl text-[#005eac] font-extrabold">About Bajaj Electricals</h1>
-                    <div className="bg-[#00aea7] rounded-2xl h-1 w-6 mb-5"></div>
-                    <h2 className="text-6xl text-black font-semibold mb-2">Powered by trust
-                    </h2>
-                    <h3 className="text-[#005eac] text-2xl mb-2">
-                        Since its inception in 1938, under the visionary leadership of
-                        Shri Jamnalal Bajaj, Bajaj Electricals has grown into a trusted part
-                        of millions of lives.
-                    </h3>
-                </div>'>
+        <div className='marginal text-lg text-[#4d4d4f]'>
             <div>
                 <div className="">
                     <h1 className="text-3xl text-[#005eac] font-extrabold">About Bajaj Electricals</h1>
                     <div className="bg-[#00aea7] rounded-2xl h-1 w-6 mb-5"></div>
-                    <h2 className="text-6xl text-black font-semibold mb-2">Powered by trust
+                    <h2 className="text-6xl text-black font-semibold mb-3">Powered by trust
                     </h2>
-                    <h3 className="text-[#005eac] text-2xl mb-2">
+                    <h3 className="text-[#005eac] text-2xl mb-3">
                         Since its inception in 1938, under the visionary leadership of
                         Shri Jamnalal Bajaj, Bajaj Electricals has grown into a trusted part
                         of millions of lives.
                     </h3>
                 </div>
                 <div className='mt-5 bg-[#201c59] p-5 text-white rounded-3xl'>
-                    <p className='mb-2'>
+                    <p className='mb-3'>
                         Upholding the Gandhian principles
                         of integrity and service, we have
                         accomplished several milestones
@@ -34,7 +24,7 @@ const AboutBajajElectricals = () => {
                         change and remaining deeply
                         rooted in our core values.
                     </p>
-                    <p className='mb-2'>
+                    <p className='mb-3'>
                         Bajaj Electricals, as one of the
                         pioneers in the Indian Consumer
                         Products and Lighting Solutions
@@ -109,14 +99,14 @@ const AboutBajajElectricals = () => {
                 <h1 className="text-[#554194] font-bold mt-5">Our vision</h1>
                 <div className="flex flex-col md:flex-row md:items-start md:gap-10">
                     <div className="flex-1">
-                        <p className="text-4xl text-[#00aea7] mb-2">
+                        <p className="text-4xl text-[#00aea7] mb-3">
                             ‘Enhancing
                             quality of life
                             and bringing
                             happiness with
                             sustainability.’
                         </p>
-                        <p className='mb-2'>
+                        <p className='mb-3'>
                             We are driven by the ambition to
                             be the consumer’s first and lasting
                             choice. With agility in our actions and

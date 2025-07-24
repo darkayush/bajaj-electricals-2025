@@ -18,6 +18,7 @@ import ESGStrategy from "./Pages/CorporateOverview/ESGStrategy"
 import BOD from "./Pages/CorporateOverview/BOD"
 import ProductPortfolio from "./Pages/CorporateOverview/ProductPortfolio"
 import LightningSolution from "./Pages/CorporateOverview/LightningSolution"
+import ConsumerProducts from "./Pages/CorporateOverview/ConsumerProducts"
 
 const App = () => {
   return (
@@ -41,6 +42,7 @@ const App = () => {
               <Route path="/esg_strategy" element={<ESGStrategy />} />
               <Route path="/board_of_directors" element={<BOD />} />
               <Route path="/product_portfolio" element={<ProductPortfolio />} />
+              <Route path="/consumer_products" element={<ConsumerProducts />} />
               <Route path="/lighting_solutions" element={<LightningSolution />} />
             </Routes>
           </div>

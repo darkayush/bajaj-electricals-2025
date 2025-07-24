@@ -59,7 +59,7 @@ const Lighting = () => {
                     <div class="bg-[#932374] rounded-[32px] p-2">
                         <div class="bg-white rounded-[24px] p-2 flex flex-col lg:flex-row items-center lg:items-start md:gap-5">
                             <div class="flex flex-col items-center w-full lg:w-100">
-                                <img src="/CorporateOverview/Business/Consumer Lighting/Picture-12.png" alt="Living room with various consumer lighting products" class="w-full h-auto rounded-[16px] object-cover" />
+                                <img src="\CorporateOverview\Business\Professional lighting\Picture-12.png" alt="Living room with various consumer lighting products" class="w-full h-auto rounded-[16px] object-cover" />
                             </div>
 
                             <div class="flex-1 p-4 bg-white rounded-[24px]">

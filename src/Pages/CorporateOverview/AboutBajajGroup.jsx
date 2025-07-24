@@ -174,7 +174,7 @@ const AboutBajajGroup = () => {
                     </div>
                 </div>
                 <div className="mt-5 border-2 border-black rounded-3xl">
-                    <div className="bg-[#201c59] p-5 rounded-2xl bg-[url('/CorporateOverview/AboutGroup/Bg.png')] bg-no-repeat bg-[length:40%] bg-right h-80 flex items-end">
+                    <div className="bg-[#201c59] p-5 rounded-2xl bg-[url('/CorporateOverview/AboutGroup/Bg.png')] bg-no-repeat md:bg-[length:50%] bg-[length:80%] md:bg-right bg-top h-80 flex items-end">
                         <h1 className="text-white text-4xl font-bold">Honouring a Life of Leadership</h1>
                     </div>
                     <div className="p-5">
